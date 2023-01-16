@@ -1,0 +1,13 @@
+/Users/pang0lin/Downloads/RuoYi/ruoyi-generator/src/main/java/com/ruoyi/generator/config/GenConfig.java
+/Users/pang0lin/Downloads/RuoYi/ruoyi-generator/src/main/java/com/ruoyi/generator/domain/GenTableColumn.java
+/Users/pang0lin/Downloads/RuoYi/ruoyi-generator/src/main/java/com/ruoyi/generator/service/IGenTableColumnService.java
+/Users/pang0lin/Downloads/RuoYi/ruoyi-generator/src/main/java/com/ruoyi/generator/util/VelocityInitializer.java
+/Users/pang0lin/Downloads/RuoYi/ruoyi-generator/src/main/java/com/ruoyi/generator/mapper/GenTableMapper.java
+/Users/pang0lin/Downloads/RuoYi/ruoyi-generator/src/main/java/com/ruoyi/generator/service/impl/GenTableColumnServiceImpl.java
+/Users/pang0lin/Downloads/RuoYi/ruoyi-generator/src/main/java/com/ruoyi/generator/util/GenUtils.java
+/Users/pang0lin/Downloads/RuoYi/ruoyi-generator/src/main/java/com/ruoyi/generator/service/IGenTableService.java
+/Users/pang0lin/Downloads/RuoYi/ruoyi-generator/src/main/java/com/ruoyi/generator/service/impl/GenTableServiceImpl.java
+/Users/pang0lin/Downloads/RuoYi/ruoyi-generator/src/main/java/com/ruoyi/generator/mapper/GenTableColumnMapper.java
+/Users/pang0lin/Downloads/RuoYi/ruoyi-generator/src/main/java/com/ruoyi/generator/util/VelocityUtils.java
+/Users/pang0lin/Downloads/RuoYi/ruoyi-generator/src/main/java/com/ruoyi/generator/domain/GenTable.java
+/Users/pang0lin/Downloads/RuoYi/ruoyi-generator/src/main/java/com/ruoyi/generator/controller/GenController.java

@@ -1,6 +1,6 @@
-javasec是一款常见java漏洞靶场环境，类似于php的dvwa。
+javasec是一款常见java漏洞靶场环境，类似于php的dvwa，项目[地址](https://github.com/j3ers3/Hello-Java-Sec)。
 
-Step1, 初始化数据库
+Step1, 初始化数据库，这里是直接对项目打包的SpringBoot的jar包进行扫描，使用下面的命令。其中-c参数代码源码是属于编译后源码，不能省略。
 
 `python3 main.py -t /Users/xxx/Downloads/javasec-1.10.jar -c`
 
@@ -20,5 +20,5 @@ Step3, 查询漏洞
 
 最终的会生成[结果csv文件](2023-01-16_1673832447.csv)，暂未对结果进行分析
 
-![4](/Users/pang0lin/test/study/javasec_demo/img/4.png)
+![4](img/4.png)
 
