@@ -4,7 +4,7 @@ SpringMVC是一个测试的Spring项目。
 
 Step1, 初始化数据库，通过源码目录方式来创建数据库，源码属于编译后的源码，需要-c参数。
 
-`python3 main.py -t /Users/xxx/Downloads/javasec-1.10.jar -c`
+`python3 main.py -t /Users/pang0lin/Downloads/SpringMVC -c`
 
 ![1](img/1.png)
 
