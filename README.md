@@ -1,4 +1,6 @@
-# CodeQL演示示例
+# CodeQLpy演示示例
+
+CodeQLpy项目地址：[https://github.com/webraybtl/CodeQLpy](https://github.com/webraybtl/CodeQLpy)
 
 案例一，[javasec测试用例](https://github.com/webraybtl/StudyCodeQLpy/tree/main/javasec_demo)
 
